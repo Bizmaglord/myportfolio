@@ -21,9 +21,9 @@ Visualizing key performance indicators to track and optimize sales performance f
 ✈️ <b>Airlines Tracker:</b><br>
 An interactive dashboard to monitor real-time data and metrics for various airlines.
 
-<b>Financial Performance Analysis
-Neo Bank Sentiment Analysis
-Sales KPI
+<b>Financial Performance Analysis<br>
+Neo Bank Sentiment Analysis<br>
+Sales KPI<br>
 Airlines Tracker</b>
 
 
@@ -31,10 +31,7 @@ Airlines Tracker</b>
 Hi, I'm Asiyanbi Adekunle, and I'm thrilled about the fascinating intersection of financial modeling, data analytics, and user experience design. My goal is to leverage data to drive informed decisions and create delightful experiences for users.
 
 </b>Contact Information</b>
-Connect with me or drop me a message on LinkedIn: Asiyanbi Adekunle
-
-<b>Acknowledgments</b>
-A big shoutout to the open-source community for the tools and libraries that helped me bring these projects to life!
+Connect with me or drop me a message on LinkedIn: <a href="https://www.linkedin.com/in/asiyanbi-adekunle-873b731a4">Asiyanbi Adekunle </a>
 
 
 <b>Let's Connect</b>
