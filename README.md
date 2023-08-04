@@ -1,6 +1,6 @@
 📊 <b>Data Analytics Portfolio</b> 🚀
 
-<b>Introduction<b>
+<b>Introduction</b>
 Welcome to my Data Analytics Portfolio, where I've combined my passion for financial modeling, data analytics, and user experience design. This portfolio is a showcase of various projects that I've worked on to hone my analytical skills while exploring the exciting world of data.
 
 <b>Technologies Used</b>
